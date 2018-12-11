@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.136
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SQLite.Universal", "SQLite.Universal\SQLite.Universal.vcxproj", "{A6321C11-F773-4BFA-BDF2-7D3CC581DE40}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestApplicationStorage", "Samples\TestApplicationStorage\TestApplicationStorage.csproj", "{6A6DE7BA-765B-4EC3-BC46-D59F50AECE56}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|ARM = Debug|ARM
@@ -33,6 +35,30 @@ Global
 		{A6321C11-F773-4BFA-BDF2-7D3CC581DE40}.Release|x64.Build.0 = Release|x64
 		{A6321C11-F773-4BFA-BDF2-7D3CC581DE40}.Release|x86.ActiveCfg = Release|Win32
 		{A6321C11-F773-4BFA-BDF2-7D3CC581DE40}.Release|x86.Build.0 = Release|Win32
+		{6A6DE7BA-765B-4EC3-BC46-D59F50AECE56}.Debug|ARM.ActiveCfg = Debug|ARM
+		{6A6DE7BA-765B-4EC3-BC46-D59F50AECE56}.Debug|ARM.Build.0 = Debug|ARM
+		{6A6DE7BA-765B-4EC3-BC46-D59F50AECE56}.Debug|ARM.Deploy.0 = Debug|ARM
+		{6A6DE7BA-765B-4EC3-BC46-D59F50AECE56}.Debug|ARM64.ActiveCfg = Debug|ARM64
+		{6A6DE7BA-765B-4EC3-BC46-D59F50AECE56}.Debug|ARM64.Build.0 = Debug|ARM64
+		{6A6DE7BA-765B-4EC3-BC46-D59F50AECE56}.Debug|ARM64.Deploy.0 = Debug|ARM64
+		{6A6DE7BA-765B-4EC3-BC46-D59F50AECE56}.Debug|x64.ActiveCfg = Debug|x64
+		{6A6DE7BA-765B-4EC3-BC46-D59F50AECE56}.Debug|x64.Build.0 = Debug|x64
+		{6A6DE7BA-765B-4EC3-BC46-D59F50AECE56}.Debug|x64.Deploy.0 = Debug|x64
+		{6A6DE7BA-765B-4EC3-BC46-D59F50AECE56}.Debug|x86.ActiveCfg = Debug|x86
+		{6A6DE7BA-765B-4EC3-BC46-D59F50AECE56}.Debug|x86.Build.0 = Debug|x86
+		{6A6DE7BA-765B-4EC3-BC46-D59F50AECE56}.Debug|x86.Deploy.0 = Debug|x86
+		{6A6DE7BA-765B-4EC3-BC46-D59F50AECE56}.Release|ARM.ActiveCfg = Release|ARM
+		{6A6DE7BA-765B-4EC3-BC46-D59F50AECE56}.Release|ARM.Build.0 = Release|ARM
+		{6A6DE7BA-765B-4EC3-BC46-D59F50AECE56}.Release|ARM.Deploy.0 = Release|ARM
+		{6A6DE7BA-765B-4EC3-BC46-D59F50AECE56}.Release|ARM64.ActiveCfg = Release|ARM64
+		{6A6DE7BA-765B-4EC3-BC46-D59F50AECE56}.Release|ARM64.Build.0 = Release|ARM64
+		{6A6DE7BA-765B-4EC3-BC46-D59F50AECE56}.Release|ARM64.Deploy.0 = Release|ARM64
+		{6A6DE7BA-765B-4EC3-BC46-D59F50AECE56}.Release|x64.ActiveCfg = Release|x64
+		{6A6DE7BA-765B-4EC3-BC46-D59F50AECE56}.Release|x64.Build.0 = Release|x64
+		{6A6DE7BA-765B-4EC3-BC46-D59F50AECE56}.Release|x64.Deploy.0 = Release|x64
+		{6A6DE7BA-765B-4EC3-BC46-D59F50AECE56}.Release|x86.ActiveCfg = Release|x86
+		{6A6DE7BA-765B-4EC3-BC46-D59F50AECE56}.Release|x86.Build.0 = Release|x86
+		{6A6DE7BA-765B-4EC3-BC46-D59F50AECE56}.Release|x86.Deploy.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
