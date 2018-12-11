@@ -2,11 +2,10 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">
   <metadata minClientVersion="3.3">
     <id>SQLite.Universal</id>
-    <version>3.25.3.0</version>
+    <version>3.26.1</version>
     <title>SQLite Library for UWP</title>
     <projectUrl>https://github.com/ionutdanila/SQLite.UWP</projectUrl>
     <authors>Ionut Danila</authors>
-	<owners>Ionut Danila</owners>
 	<language>en-US</language>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>SQLite Library (x86, x64, ARM and ARM64) for UWP (Universal Windows Platform)</description>
@@ -17,7 +16,7 @@
   </metadata>  
   
   <files>
-	<file src="uap10.0\*.props" target="build\uap10.0" />
+	<file src="uap10.0\*.props" target="build" />
 	
     <file src="..\Build\Win32\Release\sqlite3.dll" target="runtimes\win10-win32-aot\native" />
 	<file src="..\Build\Win32\Release\sqlite3.exp" target="runtimes\win10-win32-aot\native" />
