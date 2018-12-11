@@ -7,4 +7,4 @@
 ###### You can reference this NuGet package to your vcxproj (C++/CX) or csproj (C#) projects.
 ###### This NuGet Package will automatically copy the required files to the Output directory of your project.
 
-###### Using this NuGet Package you don't have to install [SQLite for Universal Windows Platform](https://marketplace.visualstudio.com/items?itemName=SQLiteDevelopmentTeam.SQLiteforUniversalWindowsPlatform#qna) Extension for Visual Studio. Using a NuGet package makes a project easier to configure and easier to setup Continuous Integration.
+###### When using this NuGet Package you don't have to install [SQLite for Universal Windows Platform](https://marketplace.visualstudio.com/items?itemName=SQLiteDevelopmentTeam.SQLiteforUniversalWindowsPlatform#qna) Extension for Visual Studio. Using a NuGet package makes a project easier to configure and easier to setup Continuous Integration.
