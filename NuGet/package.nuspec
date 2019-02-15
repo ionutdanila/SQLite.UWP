@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">
   <metadata minClientVersion="3.3">
     <id>SQLite.Universal</id>
-    <version>3.26.1</version>
+    <version>3.27.1</version>
     <title>SQLite Library for UWP</title>
     <projectUrl>https://github.com/ionutdanila/SQLite.UWP</projectUrl>
     <authors>Ionut Danila</authors>
