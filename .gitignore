@@ -3,3 +3,4 @@ SQLite.Universal/obj/
 Build/
 Samples/TestApplicationStorage/bin/
 Samples/TestApplicationStorage/obj/
+*.user

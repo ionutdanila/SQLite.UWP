@@ -159,7 +159,7 @@
       <Version>6.2.2</Version>
     </PackageReference>
     <PackageReference Include="SQLite.Universal">
-      <Version>3.26.1</Version>
+      <Version>3.27.1</Version>
     </PackageReference>
   </ItemGroup>
   <ItemGroup>
