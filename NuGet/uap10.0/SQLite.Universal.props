@@ -2,10 +2,10 @@
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
     
   <ItemGroup>
-	<NativeDlls Include="$(MSBuildThisFileDirectory)..\..\runtimes\win10-$(Platform)-aot\native\*.dll" />
-	<NativeLibs Include="$(MSBuildThisFileDirectory)..\..\runtimes\win10-$(Platform)-aot\native\*.lib" />
-	<NativeExps Include="$(MSBuildThisFileDirectory)..\..\runtimes\win10-$(Platform)-aot\native\*.exp" />
-	<NativePris Include="$(MSBuildThisFileDirectory)..\..\runtimes\win10-$(Platform)-aot\native\*.pri" />
+	<NativeDlls Include="$(MSBuildThisFileDirectory)..\runtimes\win10-$(Platform)-aot\native\*.dll" />
+	<NativeLibs Include="$(MSBuildThisFileDirectory)..\runtimes\win10-$(Platform)-aot\native\*.lib" />
+	<NativeExps Include="$(MSBuildThisFileDirectory)..\runtimes\win10-$(Platform)-aot\native\*.exp" />
+	<NativePris Include="$(MSBuildThisFileDirectory)..\runtimes\win10-$(Platform)-aot\native\*.pri" />
 	
 	<Content Include="@(NativeDlls)">
 	  <Link>%(RecursiveDir)%(FileName)%(Extension)</Link>
